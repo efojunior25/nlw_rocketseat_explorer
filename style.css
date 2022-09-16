@@ -159,7 +159,7 @@ footer {
     width: 100%;
     height: 100%;
     background-color: #FFFFFF;
-    transform: translate(-100%);
+    transform: translateX(-100%);
     animation: enLagerBlock 500ms 1,5s, revelFooter 500ms 2s both;
 }
 
