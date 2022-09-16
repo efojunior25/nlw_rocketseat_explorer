@@ -143,7 +143,7 @@ main section:nth-child(3){
 }
 
 footer {
-    animation: footerText 0s 2s both;
+    animation: footerText 2.1s 2s both;
 }
 
 .textFooter {
@@ -160,7 +160,7 @@ footer {
     height: 100%;
     background-color: #FFFFFF;
     transform: translateX(-100%);
-    animation: enLagerBlock 500ms 1,5s, revelFooter 500ms 2s both;
+    animation: enLagerBlock 500ms 2s both, revelFooter 500ms 2s both;
 }
 
 @keyframes fromTop {
